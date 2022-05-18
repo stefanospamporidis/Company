@@ -1,0 +1,12 @@
+C:\Users\stefanos\source\repos\CompanyClassLibrary\bin\Debug\net5.0\CompanyClassLibrary.deps.json
+C:\Users\stefanos\source\repos\CompanyClassLibrary\bin\Debug\net5.0\CompanyClassLibrary.dll
+C:\Users\stefanos\source\repos\CompanyClassLibrary\bin\Debug\net5.0\ref\CompanyClassLibrary.dll
+C:\Users\stefanos\source\repos\CompanyClassLibrary\bin\Debug\net5.0\CompanyClassLibrary.pdb
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\CompanyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\CompanyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\CompanyClassLibrary.AssemblyInfo.cs
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\CompanyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\CompanyClassLibrary.dll
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\ref\CompanyClassLibrary.dll
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\CompanyClassLibrary.pdb
+C:\Users\stefanos\source\repos\CompanyClassLibrary\obj\Debug\net5.0\CompanyClassLibrary.csproj.AssemblyReference.cache

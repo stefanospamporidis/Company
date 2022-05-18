@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyClassLibrary", "CompanyClassLibrary.csproj", "{CA22BAD8-38BA-448E-A6EB-F65750B6771D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyWebApi", "..\CompanyWebApi\CompanyWebApi.csproj", "{3CF17824-FB54-4077-A97A-F12DC078018A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA22BAD8-38BA-448E-A6EB-F65750B6771D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA22BAD8-38BA-448E-A6EB-F65750B6771D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA22BAD8-38BA-448E-A6EB-F65750B6771D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA22BAD8-38BA-448E-A6EB-F65750B6771D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF17824-FB54-4077-A97A-F12DC078018A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF17824-FB54-4077-A97A-F12DC078018A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF17824-FB54-4077-A97A-F12DC078018A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF17824-FB54-4077-A97A-F12DC078018A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20FAE02-3E65-4255-A2C4-2D58B368CE16}
+	EndGlobalSection
+EndGlobal
